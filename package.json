@@ -1,0 +1,9 @@
+{
+  "name": "trivia-game",
+  "version": "1.0.0",
+  "description": "A timed trivia game for the command line",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
